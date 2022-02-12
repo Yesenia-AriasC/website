@@ -27,7 +27,7 @@ Modelos de Aprendizaje Reforzado.
 ## Diplomado avanzado
 Lunes, miércoles y viernes de 18-20 hs
 
-sábados 8-12
+sábados 8-12 hs
 
 Telepresencial
 
