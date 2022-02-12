@@ -1,6 +1,6 @@
 # Curso básico de Inteligencia Artificial
 ## Indice
-### Clase 1
+* Clase 1
 Introducción a Python. Colecciones, Numpy, Pandas y procesamiento paralelo con Dask.
 
 **link:**
